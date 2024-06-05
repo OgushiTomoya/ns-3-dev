@@ -1,3 +1,6 @@
 [submodule "src/ndnSIM"]
 	path = src/ndnSIM
 	url = git@github.com:OgushiTomoya/ndnSIM.git
+[submodule "eval"]
+	path = eval
+	url = git@github.com:OgushiTomoya/icn_congestion_control_exam.git
